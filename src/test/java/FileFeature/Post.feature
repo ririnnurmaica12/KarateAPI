@@ -20,7 +20,8 @@ Feature: Post API
     Examples:
     |name | job|
     |ri1  |test|
-    
+    |test |    |
+
 
 
 
